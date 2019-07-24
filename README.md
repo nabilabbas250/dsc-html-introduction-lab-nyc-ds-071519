@@ -1,4 +1,4 @@
-
+<!DOCTYPE index.HTML>
 # HTML Intro - Lab
 
 ## Introduction
